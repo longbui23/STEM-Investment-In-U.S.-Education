@@ -1,0 +1,433 @@
+,area_name,education_category,tot_emp,pct_total ,h_mean,a_mean
+0,Alabama,Doctoral or professional degree,44040,2.15,63.99,133110
+1,Alabama,Master's degree,33390,1.63,40.55,84340
+2,Alabama,Bachelor's degree,435260,21.2,42,87360
+3,Alabama,Associate's degree,42560,2.07,25.71,53480
+4,Alabama,Postsecondary nondegree award,148580,7.24,22.1,45970
+5,Alabama,"Some college, no degree",38260,1.86,18.94,39390
+6,Alabama,High school diploma or equivalent,841750,41,21.8,45350
+7,Alabama,No formal educational credential,469240,22.86,14.5,30150
+8,Alaska,Doctoral or professional degree,6830,2.19,83.06,172760
+9,Alaska,Master's degree,6270,2.01,46.85,97460
+10,Alaska,Bachelor's degree,74290,23.84,49.55,103060
+11,Alaska,Associate's degree,7880,2.53,37.48,77960
+12,Alaska,Postsecondary nondegree award,22660,7.27,33.17,68990
+13,Alaska,"Some college, no degree",10310,3.31,23.43,48730
+14,Alaska,High school diploma or equivalent,114850,36.86,28.58,59450
+15,Alaska,No formal educational credential,68520,21.99,19.79,41160
+16,Arizona,Doctoral or professional degree,74100,2.37,75.19,156400
+17,Arizona,Master's degree,58040,1.85,41.92,87190
+18,Arizona,Bachelor's degree,771890,24.66,46.86,97460
+19,Arizona,Associate's degree,65400,2.09,31.19,64880
+20,Arizona,Postsecondary nondegree award,187020,5.98,24.62,51200
+21,Arizona,"Some college, no degree",76850,2.46,23.29,48440
+22,Arizona,High school diploma or equivalent,1168320,37.33,24.52,51010
+23,Arizona,No formal educational credential,728090,23.26,18.67,38830
+24,Arkansas,Doctoral or professional degree,27160,2.14,59.34,123430
+25,Arkansas,Master's degree,22960,1.81,39.06,81250
+26,Arkansas,Bachelor's degree,271500,21.36,37.85,78720
+27,Arkansas,Associate's degree,22580,1.78,28.29,58850
+28,Arkansas,Postsecondary nondegree award,101990,8.02,21.76,45270
+29,Arkansas,"Some college, no degree",26990,2.12,19.78,41140
+30,Arkansas,High school diploma or equivalent,504610,39.69,21.13,43950
+31,Arkansas,No formal educational credential,293520,23.09,15.28,31780
+32,California,Doctoral or professional degree,475230,2.65,84.04,174790
+33,California,Master's degree,330280,1.84,*,*
+34,California,Bachelor's degree,4744120,26.44,61,126880
+35,California,Associate's degree,360940,2.01,*,*
+36,California,Postsecondary nondegree award,971100,5.41,29.07,60460
+37,California,"Some college, no degree",482760,2.69,27.3,56790
+38,California,High school diploma or equivalent,6409400,35.72,27.63,57460
+39,California,No formal educational credential,4172070,23.25,20.43,42500
+40,Colorado,Doctoral or professional degree,78060,2.76,72.4,150590
+41,Colorado,Master's degree,49610,1.75,44.82,93220
+42,Colorado,Bachelor's degree,808340,28.54,51.96,108070
+43,Colorado,Associate's degree,59330,2.09,35.6,74050
+44,Colorado,Postsecondary nondegree award,151850,5.36,27.18,56540
+45,Colorado,"Some college, no degree",69030,2.44,25.46,52950
+46,Colorado,High school diploma or equivalent,990680,34.98,27.95,58140
+47,Colorado,No formal educational credential,625090,22.07,19.86,41310
+48,Connecticut,Doctoral or professional degree,55670,3.35,82.58,171770
+49,Connecticut,Master's degree,37760,2.27,50.4,104830
+50,Connecticut,Bachelor's degree,452530,27.26,55.03,114450
+51,Connecticut,Associate's degree,35920,2.16,33.41,69480
+52,Connecticut,Postsecondary nondegree award,104670,6.3,26.92,56000
+53,Connecticut,"Some college, no degree",50200,3.02,24.96,51910
+54,Connecticut,High school diploma or equivalent,596190,35.91,26.76,55660
+55,Connecticut,No formal educational credential,327390,19.72,19.06,39630
+56,Delaware,Doctoral or professional degree,13590,2.9,79.15,164640
+57,Delaware,Master's degree,10560,2.25,43.54,90570
+58,Delaware,Bachelor's degree,118870,25.33,50.82,105710
+59,Delaware,Associate's degree,11710,2.5,30.43,63300
+60,Delaware,Postsecondary nondegree award,29290,6.24,24.54,51030
+61,Delaware,"Some college, no degree",12420,2.65,23.21,48280
+62,Delaware,High school diploma or equivalent,158750,33.83,25,52000
+63,Delaware,No formal educational credential,114080,24.31,17.35,36090
+64,District of Columbia,Doctoral or professional degree,51980,7.41,100.9,209870
+65,District of Columbia,Master's degree,20590,2.93,59.6,123960
+66,District of Columbia,Bachelor's degree,335990,47.87,62.65,130300
+67,District of Columbia,Associate's degree,16870,2.4,42.23,87830
+68,District of Columbia,Postsecondary nondegree award,17430,2.48,28.79,59890
+69,District of Columbia,"Some college, no degree",9630,1.37,31.2,64890
+70,District of Columbia,High school diploma or equivalent,151760,21.62,30.9,64260
+71,District of Columbia,No formal educational credential,97580,13.9,21.72,45180
+72,Florida,Doctoral or professional degree,234030,2.45,76.08,158250
+73,Florida,Master's degree,156330,1.63,42.21,87790
+74,Florida,Bachelor's degree,2198190,22.97,46.43,96570
+75,Florida,Associate's degree,212990,2.23,29.55,61460
+76,Florida,Postsecondary nondegree award,615550,6.43,24.28,50490
+77,Florida,"Some college, no degree",235520,2.46,22.55,46900
+78,Florida,High school diploma or equivalent,3547210,37.07,23.86,49620
+79,Florida,No formal educational credential,2368440,24.75,16.61,34540
+80,Georgia,Doctoral or professional degree,101000,2.12,77.83,161890
+81,Georgia,Master's degree,**,**,44.55,92670
+82,Georgia,Bachelor's degree,1193970,25.09,47.8,99420
+83,Georgia,Associate's degree,**,**,31.85,66250
+84,Georgia,Postsecondary nondegree award,302000,6.35,24.12,50180
+85,Georgia,"Some college, no degree",113030,2.38,22.84,47510
+86,Georgia,High school diploma or equivalent,1779800,37.41,23.45,48770
+87,Georgia,No formal educational credential,1100100,23.12,15.7,32660
+88,Hawaii,Doctoral or professional degree,17990,2.92,74.21,154360
+89,Hawaii,Master's degree,10820,1.75,42.75,88930
+90,Hawaii,Bachelor's degree,128890,20.89,46.89,97530
+91,Hawaii,Associate's degree,11590,1.88,33.57,69820
+92,Hawaii,Postsecondary nondegree award,32410,5.25,31.47,65460
+93,Hawaii,"Some college, no degree",15720,2.55,21.32,44350
+94,Hawaii,High school diploma or equivalent,220000,35.66,27.34,56860
+95,Hawaii,No formal educational credential,179560,29.1,20.56,42760
+96,Idaho,Doctoral or professional degree,16710,2.03,65.11,135430
+97,Idaho,Master's degree,14300,1.74,38.99,81100
+98,Idaho,Bachelor's degree,183690,22.33,41.6,86530
+99,Idaho,Associate's degree,18330,2.23,29.44,61230
+100,Idaho,Postsecondary nondegree award,55840,6.79,23.6,49080
+101,Idaho,"Some college, no degree",23580,2.87,20.09,41790
+102,Idaho,High school diploma or equivalent,317290,38.57,22.61,47030
+103,Idaho,No formal educational credential,192960,23.45,16.65,34640
+104,Illinois,Doctoral or professional degree,152540,2.54,71.28,148260
+105,Illinois,Master's degree,108850,1.81,44.68,92920
+106,Illinois,Bachelor's degree,1565480,26.04,50.66,105380
+107,Illinois,Associate's degree,121790,2.03,31.58,65680
+108,Illinois,Postsecondary nondegree award,359600,5.98,26.21,54520
+109,Illinois,"Some college, no degree",153440,2.55,22.66,47130
+110,Illinois,High school diploma or equivalent,2242400,37.3,25.7,53460
+111,Illinois,No formal educational credential,1307560,21.75,18.79,39090
+112,Indiana,Doctoral or professional degree,71730,2.27,76.87,159900
+113,Indiana,Master's degree,52780,1.67,40.84,84940
+114,Indiana,Bachelor's degree,608570,19.28,41.86,87060
+115,Indiana,Associate's degree,64300,2.04,29.94,62280
+116,Indiana,Postsecondary nondegree award,215480,6.83,24.47,50910
+117,Indiana,"Some college, no degree",72520,2.3,20.14,41880
+118,Indiana,High school diploma or equivalent,1318110,41.76,23.77,49450
+119,Indiana,No formal educational credential,753260,23.86,16.57,34470
+120,Iowa,Doctoral or professional degree,33380,2.16,65.38,135990
+121,Iowa,Master's degree,28920,1.87,40.96,85190
+122,Iowa,Bachelor's degree,347380,22.49,40.48,84200
+123,Iowa,Associate's degree,34670,2.24,27.69,57600
+124,Iowa,Postsecondary nondegree award,109830,7.11,23.89,49690
+125,Iowa,"Some college, no degree",47540,3.08,19.29,40120
+126,Iowa,High school diploma or equivalent,586530,37.97,23.92,49760
+127,Iowa,No formal educational credential,356510,23.08,16.63,34580
+128,Kansas,Doctoral or professional degree,31370,2.22,64.01,133140
+129,Kansas,Master's degree,24380,1.73,39.65,82480
+130,Kansas,Bachelor's degree,319430,22.62,41.45,86220
+131,Kansas,Associate's degree,27050,1.92,30.43,63290
+132,Kansas,Postsecondary nondegree award,99810,7.07,23.22,48290
+133,Kansas,"Some college, no degree",49240,3.49,19.07,39670
+134,Kansas,High school diploma or equivalent,550450,38.98,23.36,48580
+135,Kansas,No formal educational credential,310260,21.97,16.26,33820
+136,Kentucky,Doctoral or professional degree,43300,2.21,69.26,144050
+137,Kentucky,Master's degree,35200,1.79,38.6,80300
+138,Kentucky,Bachelor's degree,392780,20.01,40.8,84870
+139,Kentucky,Associate's degree,41140,2.1,27.8,57820
+140,Kentucky,Postsecondary nondegree award,134460,6.85,23.77,49450
+141,Kentucky,"Some college, no degree",46560,2.37,20.01,41620
+142,Kentucky,High school diploma or equivalent,824790,42.02,22.14,46060
+143,Kentucky,No formal educational credential,444830,22.66,15.9,33070
+144,Louisiana,Doctoral or professional degree,40330,2.18,67.05,139460
+145,Louisiana,Master's degree,36880,1.99,40.35,83930
+146,Louisiana,Bachelor's degree,354760,19.16,41.6,86530
+147,Louisiana,Associate's degree,37450,2.02,29.67,61710
+148,Louisiana,Postsecondary nondegree award,140850,7.61,23.48,48830
+149,Louisiana,"Some college, no degree",41900,2.26,19.12,39770
+150,Louisiana,High school diploma or equivalent,731220,39.49,22.25,46280
+151,Louisiana,No formal educational credential,468470,25.3,15.23,31680
+152,Maine,Doctoral or professional degree,14820,2.38,71.57,148870
+153,Maine,Master's degree,13690,2.2,42.99,89420
+154,Maine,Bachelor's degree,139520,22.44,43.27,90010
+155,Maine,Associate's degree,13120,2.11,31.5,65530
+156,Maine,Postsecondary nondegree award,41820,6.73,24.12,50160
+157,Maine,"Some college, no degree",20080,3.23,22.44,46680
+158,Maine,High school diploma or equivalent,242400,38.99,24.01,49950
+159,Maine,No formal educational credential,136290,21.92,18.74,38980
+160,Maryland,Doctoral or professional degree,86060,3.21,78.25,162750
+161,Maryland,Master's degree,68890,2.57,49.88,103740
+162,Maryland,Bachelor's degree,828510,30.94,53.29,110840
+163,Maryland,Associate's degree,67260,2.51,36.06,75010
+164,Maryland,Postsecondary nondegree award,146420,5.47,26.59,55310
+165,Maryland,"Some college, no degree",59700,2.23,24.43,50810
+166,Maryland,High school diploma or equivalent,871260,32.54,26.08,54250
+167,Maryland,No formal educational credential,549330,20.52,18.11,37660
+168,Massachusetts,Doctoral or professional degree,152220,4.18,75.5,157040
+169,Massachusetts,Master's degree,100780,2.77,49.07,102060
+170,Massachusetts,Bachelor's degree,1124110,30.85,58.05,120750
+171,Massachusetts,Associate's degree,78740,2.16,34.27,71280
+172,Massachusetts,Postsecondary nondegree award,200790,5.51,27.74,57690
+173,Massachusetts,"Some college, no degree",97000,2.66,27.12,56420
+174,Massachusetts,High school diploma or equivalent,1217480,33.42,28.37,59020
+175,Massachusetts,No formal educational credential,672340,18.45,20.18,41980
+176,Michigan,Doctoral or professional degree,104610,2.41,72.02,149810
+177,Michigan,Master's degree,78080,1.8,43.04,89530
+178,Michigan,Bachelor's degree,1042670,23.98,45.16,93920
+179,Michigan,Associate's degree,96100,2.21,29.97,62340
+180,Michigan,Postsecondary nondegree award,263840,6.07,24.07,50060
+181,Michigan,"Some college, no degree",106860,2.46,21.37,44440
+182,Michigan,High school diploma or equivalent,1741000,40.04,23.73,49350
+183,Michigan,No formal educational credential,914800,21.04,17.35,36100
+184,Minnesota,Doctoral or professional degree,70850,2.46,80.79,168040
+185,Minnesota,Master's degree,55080,1.91,45.59,94830
+186,Minnesota,Bachelor's degree,744660,25.85,48.68,101260
+187,Minnesota,Associate's degree,69250,2.4,32.08,66730
+188,Minnesota,Postsecondary nondegree award,163490,5.67,26.73,55590
+189,Minnesota,"Some college, no degree",80590,2.8,23.51,48910
+190,Minnesota,High school diploma or equivalent,1101580,38.23,25.86,53790
+191,Minnesota,No formal educational credential,595600,20.67,18.35,38170
+192,Mississippi,Doctoral or professional degree,23460,2.04,65.19,135590
+193,Mississippi,Master's degree,23480,2.04,38.22,79500
+194,Mississippi,Bachelor's degree,202770,17.63,35.69,74230
+195,Mississippi,Associate's degree,23780,2.07,25.32,52670
+196,Mississippi,Postsecondary nondegree award,84280,7.33,22.01,45780
+197,Mississippi,"Some college, no degree",25840,2.25,17.09,35550
+198,Mississippi,High school diploma or equivalent,475300,41.33,20.35,42330
+199,Mississippi,No formal educational credential,291040,25.31,13.96,29040
+200,Missouri,Doctoral or professional degree,67570,2.35,70.59,146830
+201,Missouri,Master's degree,55820,1.94,40.74,84740
+202,Missouri,Bachelor's degree,697040,24.23,40.97,85220
+203,Missouri,Associate's degree,57350,1.99,29.41,61160
+204,Missouri,Postsecondary nondegree award,194070,6.75,23.63,49150
+205,Missouri,"Some college, no degree",60750,2.11,21.92,45590
+206,Missouri,High school diploma or equivalent,1112030,38.66,22.93,47690
+207,Missouri,No formal educational credential,631770,21.96,17.29,35960
+208,Montana,Doctoral or professional degree,12550,2.5,66.5,138310
+209,Montana,Master's degree,9010,1.8,39.33,81800
+210,Montana,Bachelor's degree,108490,21.62,39.26,81660
+211,Montana,Associate's degree,12050,2.4,28.89,60080
+212,Montana,Postsecondary nondegree award,30340,6.05,24.63,51230
+213,Montana,"Some college, no degree",14790,2.95,22.26,46300
+214,Montana,High school diploma or equivalent,189090,37.69,23.95,49820
+215,Montana,No formal educational credential,125410,25,16.64,34610
+216,Nebraska,Doctoral or professional degree,24410,2.44,72.04,149850
+217,Nebraska,Master's degree,18390,1.84,42.08,87520
+218,Nebraska,Bachelor's degree,238480,23.83,41.76,86850
+219,Nebraska,Associate's degree,18930,1.89,30.3,63020
+220,Nebraska,Postsecondary nondegree award,75370,7.53,24.85,51700
+221,Nebraska,"Some college, no degree",26790,2.68,20.22,42060
+222,Nebraska,High school diploma or equivalent,362970,36.27,23.36,48590
+223,Nebraska,No formal educational credential,235520,23.53,16.94,35230
+224,Nevada,Doctoral or professional degree,25950,1.75,76.6,159340
+225,Nevada,Master's degree,18110,1.22,46.39,96500
+226,Nevada,Bachelor's degree,289060,19.51,47.87,99570
+227,Nevada,Associate's degree,27900,1.88,32.65,67900
+228,Nevada,Postsecondary nondegree award,81850,5.52,26.98,56110
+229,Nevada,"Some college, no degree",27930,1.88,22.96,47750
+230,Nevada,High school diploma or equivalent,550590,37.16,24.22,50370
+231,Nevada,No formal educational credential,460430,31.07,17.81,37040
+232,New Hampshire,Doctoral or professional degree,15650,2.32,81.71,169950
+233,New Hampshire,Master's degree,14780,2.19,44.97,93540
+234,New Hampshire,Bachelor's degree,171750,25.44,49.5,102970
+235,New Hampshire,Associate's degree,16250,2.41,32.16,66900
+236,New Hampshire,Postsecondary nondegree award,42020,6.22,26.07,54230
+237,New Hampshire,"Some college, no degree",20470,3.03,23.12,48090
+238,New Hampshire,High school diploma or equivalent,252350,37.38,25.34,52700
+239,New Hampshire,No formal educational credential,141880,21.01,17.82,37070
+240,New Jersey,Doctoral or professional degree,116940,2.78,77.31,160810
+241,New Jersey,Master's degree,73690,1.75,53.14,110520
+242,New Jersey,Bachelor's degree,1080840,25.72,58.29,121230
+243,New Jersey,Associate's degree,91780,2.18,33.41,69490
+244,New Jersey,Postsecondary nondegree award,234920,5.59,27.5,57200
+245,New Jersey,"Some college, no degree",129790,3.09,24.19,50310
+246,New Jersey,High school diploma or equivalent,1539380,36.63,27.67,57550
+247,New Jersey,No formal educational credential,934830,22.25,19.51,40570
+248,New Mexico,Doctoral or professional degree,21890,2.59,70.59,146820
+249,New Mexico,Master's degree,17830,2.11,49.21,102350
+250,New Mexico,Bachelor's degree,184100,21.77,44.7,92980
+251,New Mexico,Associate's degree,22140,2.62,31.88,66310
+252,New Mexico,Postsecondary nondegree award,49550,5.86,22.22,46220
+253,New Mexico,"Some college, no degree",21650,2.56,20.83,43330
+254,New Mexico,High school diploma or equivalent,327200,38.7,21.8,45340
+255,New Mexico,No formal educational credential,201220,23.8,16.61,34540
+256,New York,Doctoral or professional degree,324040,3.45,81.61,169750
+257,New York,Master's degree,220940,2.35,51.58,107280
+258,New York,Bachelor's degree,2474650,26.35,61.22,127330
+259,New York,Associate's degree,185030,1.97,35,72800
+260,New York,Postsecondary nondegree award,465910,4.96,27.25,56690
+261,New York,"Some college, no degree",294660,3.14,25.25,52520
+262,New York,High school diploma or equivalent,3619830,38.54,27.96,58150
+263,New York,No formal educational credential,1807770,19.25,20.97,43620
+264,North Carolina,Doctoral or professional degree,115990,2.42,70.33,146290
+265,North Carolina,Master's degree,**,**,42.44,88280
+266,North Carolina,Bachelor's degree,1181610,24.64,46.4,96510
+267,North Carolina,Associate's degree,**,**,28.97,60260
+268,North Carolina,Postsecondary nondegree award,311810,6.5,22.93,47690
+269,North Carolina,"Some college, no degree",116800,2.44,21.27,44250
+270,North Carolina,High school diploma or equivalent,1750010,36.5,23.34,48540
+271,North Carolina,No formal educational credential,1131700,23.6,15.57,32380
+272,North Dakota,Doctoral or professional degree,8100,1.94,68.76,143030
+273,North Dakota,Master's degree,6850,1.64,43.07,89590
+274,North Dakota,Bachelor's degree,84190,20.17,41.27,85850
+275,North Dakota,Associate's degree,7770,1.86,30.22,62860
+276,North Dakota,Postsecondary nondegree award,35330,8.46,25.64,53340
+277,North Dakota,"Some college, no degree",11580,2.77,21.59,44900
+278,North Dakota,High school diploma or equivalent,158200,37.89,26.42,54960
+279,North Dakota,No formal educational credential,105480,25.26,18.53,38540
+280,Ohio,Doctoral or professional degree,137200,2.51,73.17,152200
+281,Ohio,Master's degree,103360,1.89,42.77,88960
+282,Ohio,Bachelor's degree,1307340,23.9,44.26,92060
+283,Ohio,Associate's degree,125050,2.29,30.12,62640
+284,Ohio,Postsecondary nondegree award,373230,6.82,24.58,51120
+285,Ohio,"Some college, no degree",131180,2.4,21.52,44770
+286,Ohio,High school diploma or equivalent,2102860,38.45,23.55,48980
+287,Ohio,No formal educational credential,1188940,21.74,16.71,34760
+288,Oklahoma,Doctoral or professional degree,34050,2.05,74.61,155180
+289,Oklahoma,Master's degree,33020,1.98,37.14,77260
+290,Oklahoma,Bachelor's degree,351980,21.15,39.71,82590
+291,Oklahoma,Associate's degree,36030,2.16,29.84,62070
+292,Oklahoma,Postsecondary nondegree award,122320,7.35,23.09,48030
+293,Oklahoma,"Some college, no degree",44390,2.67,19.5,40550
+294,Oklahoma,High school diploma or equivalent,646760,38.86,22.18,46130
+295,Oklahoma,No formal educational credential,395760,23.78,14.94,31080
+296,Oregon,Doctoral or professional degree,49610,2.55,79.41,165160
+297,Oregon,Master's degree,34010,1.75,47.9,99620
+298,Oregon,Bachelor's degree,495510,25.5,48.72,101340
+299,Oregon,Associate's degree,45140,2.32,32.74,68090
+300,Oregon,Postsecondary nondegree award,103910,5.35,27.96,58160
+301,Oregon,"Some college, no degree",59090,3.04,23.53,48940
+302,Oregon,High school diploma or equivalent,723210,37.22,25.77,53600
+303,Oregon,No formal educational credential,432680,22.27,18.96,39440
+304,Pennsylvania,Doctoral or professional degree,182770,3.07,70.37,146380
+305,Pennsylvania,Master's degree,112380,1.89,44.93,93450
+306,Pennsylvania,Bachelor's degree,1421650,23.9,46.75,97250
+307,Pennsylvania,Associate's degree,123880,2.08,29.57,61500
+308,Pennsylvania,Postsecondary nondegree award,383370,6.44,24.14,50210
+309,Pennsylvania,"Some college, no degree",141610,2.38,21.8,45330
+310,Pennsylvania,High school diploma or equivalent,2288640,38.47,23.9,49710
+311,Pennsylvania,No formal educational credential,1294180,21.76,17,35350
+312,Rhode Island,Doctoral or professional degree,15570,3.19,69.39,144340
+313,Rhode Island,Master's degree,12700,2.6,46.3,96310
+314,Rhode Island,Bachelor's degree,120480,24.68,48.32,100510
+315,Rhode Island,Associate's degree,11030,2.26,36.71,76350
+316,Rhode Island,Postsecondary nondegree award,31340,6.42,25.19,52400
+317,Rhode Island,"Some college, no degree",11550,2.37,23.75,49390
+318,Rhode Island,High school diploma or equivalent,177240,36.3,26.41,54930
+319,Rhode Island,No formal educational credential,108320,22.19,18.42,38310
+320,South Carolina,Doctoral or professional degree,50740,2.28,68.38,142230
+321,South Carolina,Master's degree,41260,1.86,40.92,85110
+322,South Carolina,Bachelor's degree,448740,20.19,42.57,88550
+323,South Carolina,Associate's degree,49170,2.21,29.23,60800
+324,South Carolina,Postsecondary nondegree award,144340,6.49,22.85,47530
+325,South Carolina,"Some college, no degree",46040,2.07,20.1,41810
+326,South Carolina,High school diploma or equivalent,891980,40.13,22.3,46370
+327,South Carolina,No formal educational credential,550690,24.77,14.85,30880
+328,South Dakota,Doctoral or professional degree,9520,2.14,70.13,145870
+329,South Dakota,Master's degree,8120,1.83,39.17,81460
+330,South Dakota,Bachelor's degree,91860,20.67,38.49,80070
+331,South Dakota,Associate's degree,10250,2.31,26.7,55530
+332,South Dakota,Postsecondary nondegree award,28130,6.33,23.24,48340
+333,South Dakota,"Some college, no degree",15970,3.59,18.59,38670
+334,South Dakota,High school diploma or equivalent,169250,38.09,22.56,46920
+335,South Dakota,No formal educational credential,111310,25.05,16.25,33800
+336,Tennessee,Doctoral or professional degree,69610,2.16,74.98,155950
+337,Tennessee,Master's degree,**,**,41.18,85660
+338,Tennessee,Bachelor's degree,686710,21.33,42.9,89230
+339,Tennessee,Associate's degree,**,**,28.72,59730
+340,Tennessee,Postsecondary nondegree award,219460,6.82,23.83,49570
+341,Tennessee,"Some college, no degree",82850,2.57,20.42,42480
+342,Tennessee,High school diploma or equivalent,1264460,39.28,22.46,46710
+343,Tennessee,No formal educational credential,769590,23.91,15.96,33200
+344,Texas,Doctoral or professional degree,271850,2.01,75.66,157370
+345,Texas,Master's degree,237030,1.75,43.57,90630
+346,Texas,Bachelor's degree,3466160,25.57,47.85,99530
+347,Texas,Associate's degree,285280,2.1,30.51,63460
+348,Texas,Postsecondary nondegree award,828040,6.11,24.81,51610
+349,Texas,"Some college, no degree",340810,2.51,20.81,43280
+350,Texas,High school diploma or equivalent,5138490,37.9,23.08,48010
+351,Texas,No formal educational credential,2990300,22.06,15.88,33020
+352,Utah,Doctoral or professional degree,36340,2.16,66.75,138830
+353,Utah,Master's degree,31800,1.89,42.15,87660
+354,Utah,Bachelor's degree,430950,25.67,44.95,93490
+355,Utah,Associate's degree,35560,2.12,29.56,61490
+356,Utah,Postsecondary nondegree award,96980,5.78,24.18,50290
+357,Utah,"Some college, no degree",47420,2.82,22.28,46340
+358,Utah,High school diploma or equivalent,635670,37.87,24.02,49960
+359,Utah,No formal educational credential,363920,21.68,17.68,36770
+360,Vermont,Doctoral or professional degree,9270,3.08,68.21,141880
+361,Vermont,Master's degree,8660,2.88,41.29,85880
+362,Vermont,Bachelor's degree,78050,25.95,43.09,89630
+363,Vermont,Associate's degree,7460,2.48,29.76,61890
+364,Vermont,Postsecondary nondegree award,18030,5.99,24.51,50980
+365,Vermont,"Some college, no degree",11400,3.79,22.56,46930
+366,Vermont,High school diploma or equivalent,104430,34.72,24.55,51060
+367,Vermont,No formal educational credential,63460,21.1,19.54,40630
+368,Virginia,Doctoral or professional degree,97370,2.45,73.36,152590
+369,Virginia,Master's degree,75530,1.9,46.74,97220
+370,Virginia,Bachelor's degree,1199780,30.14,53.93,112160
+371,Virginia,Associate's degree,82890,2.08,34.98,72760
+372,Virginia,Postsecondary nondegree award,240840,6.05,24.72,51420
+373,Virginia,"Some college, no degree",100400,2.52,23.54,48970
+374,Virginia,High school diploma or equivalent,1362650,34.23,24.53,51030
+375,Virginia,No formal educational credential,821670,20.64,17.1,35570
+376,Washington,Doctoral or professional degree,82030,2.35,84.14,175010
+377,Washington,Master's degree,67490,1.93,51.48,107080
+378,Washington,Bachelor's degree,994860,28.46,57.29,119170
+379,Washington,Associate's degree,79050,2.26,37.5,78010
+380,Washington,Postsecondary nondegree award,202890,5.8,30.09,62590
+381,Washington,"Some college, no degree",100500,2.88,26.64,55400
+382,Washington,High school diploma or equivalent,1209850,34.61,29.43,61210
+383,Washington,No formal educational credential,758830,21.71,21.84,45420
+384,West Virginia,Doctoral or professional degree,20880,3.03,66.82,138980
+385,West Virginia,Master's degree,14100,2.05,40.59,84430
+386,West Virginia,Bachelor's degree,141800,20.59,38.17,79400
+387,West Virginia,Associate's degree,17880,2.6,26.95,56050
+388,West Virginia,Postsecondary nondegree award,49800,7.23,20.9,43470
+389,West Virginia,"Some college, no degree",14420,2.09,18.86,39230
+390,West Virginia,High school diploma or equivalent,275390,39.99,20.93,43530
+391,West Virginia,No formal educational credential,154390,22.42,15.18,31580
+392,Wisconsin,Doctoral or professional degree,67970,2.36,81.55,169610
+393,Wisconsin,Master's degree,45580,1.58,43.42,90320
+394,Wisconsin,Bachelor's degree,625260,21.67,43.73,90950
+395,Wisconsin,Associate's degree,61020,2.11,29.01,60340
+396,Wisconsin,Postsecondary nondegree award,188070,6.52,24.61,51190
+397,Wisconsin,"Some college, no degree",76180,2.64,21.34,44390
+398,Wisconsin,High school diploma or equivalent,1188180,41.17,24.33,50600
+399,Wisconsin,No formal educational credential,633730,21.96,16.99,35330
+400,Wyoming,Doctoral or professional degree,6130,2.24,67.25,139890
+401,Wyoming,Master's degree,4830,1.76,40.73,84720
+402,Wyoming,Bachelor's degree,54140,19.78,41.5,86320
+403,Wyoming,Associate's degree,6100,2.23,28.31,58890
+404,Wyoming,Postsecondary nondegree award,17940,6.55,25.82,53710
+405,Wyoming,"Some college, no degree",8580,3.13,20.02,41640
+406,Wyoming,High school diploma or equivalent,108530,39.65,26.04,54160
+407,Wyoming,No formal educational credential,67510,24.66,16.82,34980
+408,Guam,Doctoral or professional degree,1030,1.59,61.35,127610
+409,Guam,Master's degree,900,1.39,33.01,68650
+410,Guam,Bachelor's degree,13860,21.43,32.07,66700
+411,Guam,Associate's degree,1040,1.61,24.46,50880
+412,Guam,Postsecondary nondegree award,3060,4.73,19.93,41460
+413,Guam,"Some college, no degree",1260,1.95,15.52,32280
+414,Guam,High school diploma or equivalent,26830,41.48,17.46,36310
+415,Guam,No formal educational credential,16700,25.82,12.04,25040
+416,Puerto Rico,Doctoral or professional degree,17430,1.88,43.28,90020
+417,Puerto Rico,Master's degree,**,**,23.33,48520
+418,Puerto Rico,Bachelor's degree,181310,19.53,26.15,54400
+419,Puerto Rico,Associate's degree,19320,2.08,17.65,36710
+420,Puerto Rico,Postsecondary nondegree award,37350,4.02,13.18,27410
+421,Puerto Rico,"Some college, no degree",**,**,13.66,28420
+422,Puerto Rico,High school diploma or equivalent,398160,42.89,14.23,29600
+423,Puerto Rico,No formal educational credential,243350,26.22,11.07,23020
+424,Virgin Islands,Doctoral or professional degree,770,2.28,59.85,124490
+425,Virgin Islands,Master's degree,610,1.81,36.43,75780
+426,Virgin Islands,Bachelor's degree,7200,21.36,35.94,74750
+427,Virgin Islands,Associate's degree,520,1.54,25.82,53700
+428,Virgin Islands,Postsecondary nondegree award,1680,4.99,24.39,50740
+429,Virgin Islands,"Some college, no degree",780,2.31,20.48,42590
+430,Virgin Islands,High school diploma or equivalent,12300,36.5,21.1,43900
+431,Virgin Islands,No formal educational credential,9850,29.23,16.58,34490
